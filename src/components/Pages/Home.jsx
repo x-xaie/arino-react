@@ -60,8 +60,8 @@ export default function Home() {
       {/* Start Hero Section */}
       <Hero
         title="Make Final Reports a<br/>Breeze with Us."
-        subtitle="We deliver best problem solving solution for our client and provide finest finishing product in present and upcoming future."
-        btnText="Get a Quote"
+        subtitle="Say goodbye to manual report writing and hello to a simplified and streamlined experience. Make final reports a breeze with us and focus on what truly matters, your studies."
+        btnText="MAKE MY REPORT NOW"
         btnLink="/contact"
         scrollDownId="#service"
         socialLinksHeading="Follow Us"
