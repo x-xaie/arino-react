@@ -21,12 +21,12 @@ export default function FaqPage() {
       <Div className="container">
         <Div className="row">
           <Div className="col-lg-4">
-            <Div bgSrc="/images/faq.png">
-              <Div className="cs-height_30 cs-height_lg_30" />
-              <ul className="cs-list cs-style1 cs-mp0">
-
-              </ul>
-            </Div>
+                  <Card
+                    title=""
+                    link=""
+                    src="/images/faq.png"
+                    alt="FAQ"
+                  />   
           </Div>
           <Div className="col-lg-7 offset-lg-1">
             <Spacing lg="0" md="40" />
