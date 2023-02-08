@@ -119,7 +119,7 @@ export default function Home() {
                 </Div>
                 <Div className="col-lg-3 col-sm-6">
                   <Card
-                    title="Advance Plagiarism Detection"
+                    title="Advanced Plagiarism Detection"
                     link="/service/service-details"
                     src="/images/service_3.jpeg"
                     alt="Service"
