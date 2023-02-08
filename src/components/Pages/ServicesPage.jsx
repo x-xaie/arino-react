@@ -16,7 +16,6 @@ export default function ServicesPage() {
   }, [])
   return (
     <>
-      <PageHeading>
       <Spacing lg='150' md='80'/>
       <Div className='cs-shape_wrap_4'>
         <Div className="container">
