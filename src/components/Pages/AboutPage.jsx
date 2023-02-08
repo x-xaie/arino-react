@@ -13,12 +13,12 @@ export default function AboutPage() {
 
   const funfaceData = [
     {
-      title: 'Global Happy Clients',
-      factNumber: '40K',
+      title: 'Sold Projects',
+      factNumber: '+2K',
     },
     {
-      title: 'Project Completed',
-      factNumber: '50K',
+      title: 'Students Satisfaction rate',
+      factNumber: '95%',
     },
     {
       title: 'Team Members',
