@@ -34,20 +34,20 @@ export default function Home() {
   // FunFact Data
   const funfaceData = [
     {
-      title: 'Global Happy Clients',
-      factNumber: '40K',
+      title: 'Sold Projects',
+      factNumber: '+2K',
     },
     {
-      title: 'Project Completed',
-      factNumber: '50K',
+      title: 'Students Satisfaction rate',
+      factNumber: '+90%',
     },
     {
-      title: 'Team Members',
-      factNumber: '245',
+      title: 'Estimated Work Hours',
+      factNumber: '+145K',
     },
     {
-      title: 'Digital products',
-      factNumber: '550',
+      title: 'Pages Generated',
+      factNumber: '+140K',
     },
   ];
 
