@@ -100,7 +100,7 @@ export default function Home() {
                 <Div className="col-lg-3 col-sm-6 cs-hidden_mobile"></Div>
                 <Div className="col-lg-3 col-sm-6">
                   <Card
-                    title="UI/UX design"
+                    title="Automated Report"
                     link="/service/service-details"
                     src="/images/service_1.jpeg"
                     alt="Service"
@@ -110,7 +110,7 @@ export default function Home() {
                 <Div className="col-lg-3 col-sm-6 cs-hidden_mobile"></Div>
                 <Div className="col-lg-3 col-sm-6">
                   <Card
-                    title="React.js Development"
+                    title="Custom Report Templates"
                     link="/service/service-details"
                     src="/images/service_2.jpeg"
                     alt="Service"
@@ -119,7 +119,7 @@ export default function Home() {
                 </Div>
                 <Div className="col-lg-3 col-sm-6">
                   <Card
-                    title="Digital Marketing"
+                    title="Advance Plagiarism Detection"
                     link="/service/service-details"
                     src="/images/service_3.jpeg"
                     alt="Service"
@@ -129,7 +129,7 @@ export default function Home() {
                 <Div className="col-lg-3 col-sm-6 cs-hidden_mobile"></Div>
                 <Div className="col-lg-3 col-sm-6">
                   <Card
-                    title="Technology"
+                    title="PDF Generation"
                     link="/service/service-details"
                     src="/images/service_4.jpeg"
                     alt="Service"
