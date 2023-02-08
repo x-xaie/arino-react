@@ -131,7 +131,7 @@ export default function Home() {
                   <Card
                     title="PDF Generation"
                     link="/service/service-details"
-                    src="/images/service_3.jpeg"
+                    src="/images/pdf.jpeg"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
