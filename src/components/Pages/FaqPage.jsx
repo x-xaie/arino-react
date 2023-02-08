@@ -8,6 +8,7 @@ import Div from '../Div';
 import PageHeading from '../PageHeading';
 import Spacing from '../Spacing';
 
+
 export default function FaqPage() {
   pageTitle('Frequently Asked Questions');
   useEffect(() => {
@@ -16,17 +17,25 @@ export default function FaqPage() {
   return (
     <>
       <PageHeading
+        title="Frequently Asked Questions"
+        bgSrc="/images/about_hero_bg.jpeg"
+        pageLinkText="FAQ"
       />
       <Spacing lg="150" md="80" />
       <Div className="container">
         <Div className="row">
           <Div className="col-lg-4">
-                  <Card
+            <Div className="cs-faq_nav cs-radius_15">
+              <Div className="cs-faq_nav_title cs-m0"> <Card
                     title=""
                     link=""
                     src="/images/faq.png"
                     alt="FAQ"
-                  />   
+                  />   </Div>
+              <Div className="cs-height_30 cs-height_lg_30" />
+
+            </Div>
+          </Div>
           <Div className="col-lg-7 offset-lg-1">
             <Spacing lg="0" md="40" />
             <Accordion />
