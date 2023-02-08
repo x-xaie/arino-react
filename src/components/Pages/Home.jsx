@@ -59,7 +59,7 @@ export default function Home() {
     <>
       {/* Start Hero Section */}
       <Hero
-        title="Academic projects<br/>Just in Seconds."
+        title="Academic projects<br/>Just in SECONDS."
         subtitle="Say goodbye to manual report writing and hello to a simplified and streamlined experience. Make final reports a breeze with us and focus on what truly matters, your studies."
         btnText="MAKE MY REPORT NOW"
         btnLink="/contact"
