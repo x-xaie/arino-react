@@ -40,9 +40,8 @@ export default function Header({ variant }) {
                 <Div className="cs-nav cs-primary_font cs-medium">
                   <ul
                     className="cs-nav_list"
-                    style={{ display: `${mobileToggle ? 'block' : 'none'}` }}
-                  >
-                    <li className="menu-item-has-children">
+                    style={{ display: `${mobileToggle ? 'block' : 'none'}` }} >
+                    <li>
                       <NavLink to="/" onClick={() => setMobileToggle(false)}>
                         Home
                       </NavLink>
