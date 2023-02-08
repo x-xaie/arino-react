@@ -213,7 +213,7 @@ export default function Home() {
       {/* Start CTA Section */}
       <Div className="container">
         <Cta
-          title="Let’s disscuse make <br />partner with the <i>cool</i> Future of Report Generation"
+          title="Let’s disscuse make <br />partner with the <i> Latest Report Generation</i> Platform "
           btnText="Apply For Meeting"
           btnLink="/contact"
           bgSrc="/images/cta_bg.jpeg"
