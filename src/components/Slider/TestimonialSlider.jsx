@@ -11,7 +11,7 @@ export default function TestimonialSlider() {
     {
       testimonialThumb: '/images/testimonial_1.jpeg',
       testimonialText:
-        'I'm a medical student and the report I had to submit for my final project was very complex. yourprojects.ai made it so much easier for me, the report was ready in a matter of seconds and I got an A! Thank you!',
+        'Im a medical student and the report I had to submit for my final project was very complex. yourprojects.ai made it so much easier for me, the report was ready in a matter of seconds and I got an A! Thank you!',
       avatarName: 'Sarah',
       avatarDesignation: 'Medical Student',
       ratings: '4',
