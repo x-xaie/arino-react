@@ -21,7 +21,7 @@ export default function FaqPage() {
       <Div className="container">
         <Div className="row">
           <Div className="col-lg-4">
-            <Div bgSrc="/images/cta_bg.jpeg">
+            <Div bgSrc="/images/faq.pmg">
               <Div className="cs-height_30 cs-height_lg_30" />
               <ul className="cs-list cs-style1 cs-mp0">
 
