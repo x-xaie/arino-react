@@ -75,7 +75,7 @@ export default function Home() {
         <FunFact
           variant="cs-type1"
           title="Our fun fact"
-          subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis."
+          subtitle="The automated report generation solution makes report writing easy and fast. By entering data, the system generates reports in seconds, saving users from tedious manual work. The platform is suitable for both students and professionals and meets their reporting needs. The solution offers the convenience of generating reports with just a click of a button."
           data={funfaceData}
         />
       </div>
