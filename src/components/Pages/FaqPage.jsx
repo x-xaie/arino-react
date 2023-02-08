@@ -16,9 +16,6 @@ export default function FaqPage() {
   return (
     <>
       <PageHeading
-        title="Frequently Asked Questions"
-        bgSrc="/images/about_hero_bg.jpeg"
-        pageLinkText="FAQ"
       />
       <Spacing lg="150" md="80" />
       <Div className="container">
