@@ -19,8 +19,6 @@ export default function ServicesPage() {
       <PageHeading />
       <Spacing lg='150' md='80'/>
       <Div className='cs-shape_wrap_4'>
-        <Div className="cs-shape_4"></Div>
-        <Div className="cs-shape_4"></Div>
         <Div className="container">
           <Div className="row">
             <Div className="col-xl-4">
