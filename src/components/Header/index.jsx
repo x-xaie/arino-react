@@ -59,7 +59,7 @@ export default function Header({ variant }) {
                         to="service"
                         onClick={() => setMobileToggle(false)}
                       >
-                        Services
+                        Pricing
                       </NavLink>
                     </li>
                     <li className="menu-item-has-children">
