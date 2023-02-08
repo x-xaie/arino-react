@@ -106,10 +106,10 @@ export default function Header({ variant }) {
                     </li>
                     <li>
                       <NavLink
-                        to="about"
+                        to="case-study-showcase"
                         onClick={() => setMobileToggle(false)}
                       >
-                        About
+                        Samples
                       </NavLink>
                     </li>
                     <li className="menu-item-has-children">
