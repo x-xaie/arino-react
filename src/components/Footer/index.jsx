@@ -46,7 +46,7 @@ export default function Footer({copyrightText, logoSrc, logoAlt, text}) {
             <Div className="col-lg-3 col-sm-6">
               <Div className="cs-footer_item">
                 <TextWidget 
-                  logoSrc='/images/footer_logo.svg' 
+                  logoSrc='/images/logoooo.svg' 
                   logoAlt='Logo'
                   text ='Welcome to theproject.ai, the platform where we help students complete their assignments with ease in the blink of an eye.'
                 />
