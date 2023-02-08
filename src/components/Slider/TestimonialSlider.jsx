@@ -11,34 +11,34 @@ export default function TestimonialSlider() {
     {
       testimonialThumb: '/images/testimonial_1.jpeg',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+        'I'm a medical student and the report I had to submit for my final project was very complex. yourprojects.ai made it so much easier for me, the report was ready in a matter of seconds and I got an A! Thank you!',
+      avatarName: 'Sarah',
+      avatarDesignation: 'Medical Student',
       ratings: '4',
     },
     {
       testimonialThumb: '/images/testimonial_2.jpeg',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+        'I'm an engineering student and always struggle with report writing. yourprojects.ai made the process so much easier and quicker, I was able to focus on my studies and still get a great report.',
+      avatarName: 'David',
+      avatarDesignation: 'Engineering Student.',
       ratings: '5',
     },
     {
       testimonialThumb: '/images/testimonial_3.jpeg',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+        'I'm a science student and had a tight deadline for my final project report. yourprojects.ai made it possible for me to submit the report on time and get a great grade.',
+      avatarName: 'Emily',
+      avatarDesignation: 'Science Student',
       ratings: '4.5',
     },
     {
       testimonialThumb: '/images/testimonial_1.jpeg',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
-      ratings: '3.5',
+        'As a computer science student, I was always intimidated by report writing. yourprojects.ai made it so much easier and the report was ready in just a few clicks. I'm grateful for this tool',
+      avatarName: 'Alex',
+      avatarDesignation: 'Computer Science Student',
+      ratings: '4.5',
     },
   ];
   const SlickArrowLeft = ({ currentSlide, slideCount, ...props }) => (
