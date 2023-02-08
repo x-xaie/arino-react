@@ -20,6 +20,7 @@ export default function FaqPage() {
       <Spacing lg="150" md="80" />
       <Div className="container">
         <Div className="row">
+         <Div className="">
           <Div className="col-lg-4">
             <img className="img-fluid" 
              src={"/images/faq.png"} 
