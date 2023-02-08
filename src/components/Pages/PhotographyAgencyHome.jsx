@@ -41,20 +41,20 @@ export default function PhotographyAgencyHome() {
   ];
   const funfaceData = [
     {
-      title: 'Products',
-      factNumber: '550',
+      title: 'Sold Projects',
+      factNumber: '+2K',
     },
     {
-      title: 'Global happy clients',
-      factNumber: '40K',
+      title: 'Students Satisfaction rate',
+      factNumber: '+90%',
     },
     {
-      title: 'Project completed',
-      factNumber: '50k',
+      title: 'Estimated Work Hours',
+      factNumber: '+145K',
     },
     {
-      title: 'Team members',
-      factNumber: '250',
+      title: 'Pages Generated',
+      factNumber: '+140K',
     },
   ];
   return (
