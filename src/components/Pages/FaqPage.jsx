@@ -17,9 +17,6 @@ export default function FaqPage() {
   return (
     <>
       <PageHeading
-        title="Frequently Asked Questions"
-        bgSrc="/images/about_hero_bg.jpeg"
-        pageLinkText="FAQ"
       />
       <Spacing lg="150" md="80" />
       <Div className="container">
@@ -31,9 +28,8 @@ export default function FaqPage() {
                     link=""
                     src="/images/faq.png"
                     alt="FAQ"
-                  />   </Div>
+                  />  
               <Div className="cs-height_30 cs-height_lg_30" />
-
             </Div>
           </Div>
           <Div className="col-lg-7 offset-lg-1">
