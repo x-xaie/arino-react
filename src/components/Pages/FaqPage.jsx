@@ -20,13 +20,7 @@ export default function FaqPage() {
       <Spacing lg="150" md="80" />
       <Div className="container">
         <Div className="row">
-         <Div className="cs-faq_nav cs-radius_15">
-          <Div className="col-lg-2">
-            <img className="img-fluid" 
-             src={"/images/faq.png"} 
-             alt="logo"/>
-            </Div>
-          </Div>
+
           <Div className="col-lg-7 offset-lg-1">
             <Spacing lg="0" md="40" />
             <Accordion />
