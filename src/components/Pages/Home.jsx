@@ -121,7 +121,7 @@ export default function Home() {
                   <Card
                     title="Advanced Plagiarism Detection"
                     link="/service/service-details"
-                    src="/images/service_3.jpeg"
+                    src="/images/service_4.jpeg"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
@@ -131,7 +131,7 @@ export default function Home() {
                   <Card
                     title="PDF Generation"
                     link="/service/service-details"
-                    src="/images/service_4.jpeg"
+                    src="/images/service_3.jpeg"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
