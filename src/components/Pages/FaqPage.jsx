@@ -21,7 +21,6 @@ export default function FaqPage() {
       <Div className="container">
         <Div className="row">
           <Div className="col-lg-4">
-            <Div className="cs-faq_nav cs-radius_15">
             <img className="img-fluid" 
              src={"/images/faq.png"} 
              alt="logo"/>
