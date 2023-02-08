@@ -27,7 +27,6 @@ export default function FaqPage() {
                     src="/images/faq.png"
                     alt="FAQ"
                   />   
-          </Div>
           <Div className="col-lg-7 offset-lg-1">
             <Spacing lg="0" md="40" />
             <Accordion />
