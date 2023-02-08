@@ -164,8 +164,7 @@ export default function Home() {
       <Spacing lg="130" md="70" />
       <Div className="container">
         <h2 className="cs-font_50 cs-m0 text-center cs-line_height_4">
-          Our agile process is ability to adapt and respond to change. Agile
-          organizations view change as an opportunity, not a threat.
+         Experience the Future of Report Writing Get the Highest Marks without stress thanks to our Advanced NEXT-Gen Technology. Generate Full Reports In Clicks For Your School.
         </h2>
         <Spacing lg="70" md="70" />
         <VideoModal
