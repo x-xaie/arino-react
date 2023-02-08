@@ -35,10 +35,10 @@ export default function Home() {
   const funfaceData = [
     {
       title: 'Sold Projects',
-      factNumber: '+2K',
+      factNumber: '+2K  ',
     },
     {
-      title: 'Students Satisfaction rate',
+      title: 'Students Satisfaction Rate',
       factNumber: '+90%',
     },
     {
