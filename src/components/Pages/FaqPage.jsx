@@ -23,7 +23,7 @@ export default function FaqPage() {
           <Div className="col-lg-4">
             <Div className="cs-faq_nav cs-radius_15">
             <img className="img-fluid" 
-             src={"${process.env.PUBLIC_URL}/images/faq.png"} 
+             src={"/images/faq.png"} 
              alt="logo"/>
             </Div>
           </Div>
