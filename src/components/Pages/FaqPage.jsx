@@ -22,7 +22,9 @@ export default function FaqPage() {
         <Div className="row">
           <Div className="col-lg-4">
             <Div className="cs-faq_nav cs-radius_15">
-            <img src={require('/images/faq.png')} />
+            <img className="img-fluid" 
+             src={"${process.env.PUBLIC_URL}/images/faq.png"} 
+             alt="logo"/>
             </Div>
           </Div>
           <Div className="col-lg-7 offset-lg-1">
