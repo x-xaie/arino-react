@@ -18,15 +18,15 @@ export default function AboutPage() {
     },
     {
       title: 'Students Satisfaction rate',
-      factNumber: '95%',
+      factNumber: '+90%',
     },
     {
-      title: 'Team Members',
-      factNumber: '245',
+      title: 'Estimated Work Hours',
+      factNumber: '+145K',
     },
     {
-      title: 'Digital products',
-      factNumber: '550',
+      title: 'Pages Generated',
+      factNumber: '+140K',
     },
   ];
   useEffect(() => {
