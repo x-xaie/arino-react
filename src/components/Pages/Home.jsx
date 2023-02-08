@@ -62,7 +62,7 @@ export default function Home() {
         title="Academic Projects<br/>Just in SECONDS."
         subtitle="Say goodbye to manual report writing and hello to a simplified and streamlined experience. Make final reports a breeze with us and focus on what truly matters, your studies."
         btnText="MAKE MY REPORT NOW"
-        btnLink="/contact"
+        btnLink="/creative-portfolio"
         scrollDownId="#service"
         socialLinksHeading="Follow Us"
         heroSocialLinks={heroSocialLinks}
