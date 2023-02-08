@@ -88,8 +88,8 @@ export default function Home() {
           <Div className="row">
             <Div className="col-xl-4">
               <SectionHeading
-                title="Services we can help you with"
-                subtitle="What Can We Do"
+                title="Services we can provide you"
+                subtitle="We Can Help You With"
                 btnText="See All Services"
                 btnLink="/service"
               />
