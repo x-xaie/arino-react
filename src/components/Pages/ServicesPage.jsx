@@ -19,7 +19,6 @@ export default function ServicesPage() {
       <Spacing lg='150' md='80'/>
       <Div className='cs-shape_wrap_4'>
         <Div className="container">
-      <Spacing lg='150' md='80'/>
         <Div className="container">
           <SectionHeading
             title='Providing best <br/>pricing for client' 
