@@ -31,7 +31,7 @@ export default function CreativePortfolioHome() {
     {
       title: 'Winery eCommerce website design & development',
       subtitle: 'Project 01',
-      btnText: 'See Details',
+      btnText: 'Download Word File',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_35.jpeg',
       category: 'Web Development',
@@ -39,7 +39,7 @@ export default function CreativePortfolioHome() {
     {
       title: 'Euro corporate agency for healthy environment',
       subtitle: 'Project 02',
-      btnText: 'See Details',
+      btnText: 'Download PDF File',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_36.jpeg',
       category: 'Branding',
@@ -47,7 +47,7 @@ export default function CreativePortfolioHome() {
     {
       title: 'Powerful admin dashboard design',
       subtitle: 'Project 03',
-      btnText: 'See Details',
+      btnText: 'Downlaod Pagiarism Report',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_37.jpeg',
       category: 'UI Design',
