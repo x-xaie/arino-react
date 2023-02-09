@@ -29,6 +29,7 @@ export default function ServicesPage() {
         </Div>
           <Div className="row">
             <Div className="col-xl-4">
+            <Spacing lg='150' md='80'/>
               <SectionHeading
                 title='Services we can help you with' 
                 subtitle='What Can We Do'
