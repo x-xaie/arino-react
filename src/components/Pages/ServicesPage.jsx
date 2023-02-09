@@ -19,6 +19,15 @@ export default function ServicesPage() {
       <Spacing lg='150' md='80'/>
       <Div className='cs-shape_wrap_4'>
         <Div className="container">
+      <Spacing lg='150' md='80'/>
+        <Div className="container">
+          <SectionHeading
+            title='Providing best <br/>pricing for client' 
+            subtitle='Pricing & Packaging'
+          />
+          <Spacing lg='85' md='40'/>
+          <PricingTableList/>
+        </Div>
           <Div className="row">
             <Div className="col-xl-4">
               <SectionHeading
@@ -93,15 +102,6 @@ export default function ServicesPage() {
             </Div>
           </Div>
         </Div>
-      </Div>
-      <Spacing lg='150' md='80'/>
-      <Div className="container">
-        <SectionHeading
-          title='Providing best <br/>pricing for client' 
-          subtitle='Pricing & Packaging'
-        />
-        <Spacing lg='85' md='40'/>
-        <PricingTableList/>
       </Div>
 
     </>
