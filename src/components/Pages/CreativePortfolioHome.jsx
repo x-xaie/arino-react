@@ -112,8 +112,8 @@ export default function CreativePortfolioHome() {
       <Spacing lg="45" md="10" />
       <Div className="container">
         <SectionHeading
-          title="Featured case study"
-          subtitle="Case Study"
+          title="Enjoy your project!"
+          subtitle="Download ZIP"
           variant="cs-style1 text-center"
         />
         <Spacing lg="90" md="45" />
