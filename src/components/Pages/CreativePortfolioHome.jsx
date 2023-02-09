@@ -19,11 +19,11 @@ export default function CreativePortfolioHome() {
   }, []);
   const heroSocialLinks = [
     {
-      name: 'Behance',
+      name: 'Generate PDF',
       links: '/',
     },
     {
-      name: 'Twitter',
+      name: 'In 10 Seconds',
       links: '/',
     },
   ];
