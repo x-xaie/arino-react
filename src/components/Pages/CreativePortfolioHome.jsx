@@ -34,7 +34,7 @@ export default function CreativePortfolioHome() {
       btnText: 'Download Word File',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_35.jpeg',
-      category: 'Web Development',
+      category: 'Editable File',
     },
     {
       title: 'Euro corporate agency for healthy environment',
@@ -42,7 +42,7 @@ export default function CreativePortfolioHome() {
       btnText: 'Download PDF File',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_36.jpeg',
-      category: 'Branding',
+      category: 'PDF File',
     },
     {
       title: 'Powerful admin dashboard design',
@@ -50,7 +50,16 @@ export default function CreativePortfolioHome() {
       btnText: 'Downlaod Pagiarism Report',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_37.jpeg',
-      category: 'UI Design',
+      category: 'Plagiarism Checked',
+    },
+    
+    {
+      title: 'Powerful admin dashboard design',
+      subtitle: '.doc',
+      btnText: 'Downlaod References',
+      btnLink: '/portfolio/portfolio-details',
+      imageUrl: '/images/portfolio_37.jpeg',
+      category: 'Reference File',
     },
   ];
   return (
