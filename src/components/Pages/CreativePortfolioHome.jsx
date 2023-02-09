@@ -30,7 +30,7 @@ export default function CreativePortfolioHome() {
   const portfolioData = [
     {
       title: 'Winery eCommerce website design & development',
-      subtitle: 'Project 01',
+      subtitle: '.doc',
       btnText: 'Download Word File',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_35.jpeg',
@@ -38,7 +38,7 @@ export default function CreativePortfolioHome() {
     },
     {
       title: 'Euro corporate agency for healthy environment',
-      subtitle: 'Project 02',
+      subtitle: '.pdf',
       btnText: 'Download PDF File',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_36.jpeg',
@@ -46,19 +46,11 @@ export default function CreativePortfolioHome() {
     },
     {
       title: 'Powerful admin dashboard design',
-      subtitle: 'Project 03',
+      subtitle: '.pdf',
       btnText: 'Downlaod Pagiarism Report',
       btnLink: '/portfolio/portfolio-details',
       imageUrl: '/images/portfolio_37.jpeg',
       category: 'UI Design',
-    },
-    {
-      title: 'Crypto financial trading apps for hedge fund',
-      subtitle: 'Project 04',
-      btnText: 'See Details',
-      btnLink: '/portfolio/portfolio-details',
-      imageUrl: '/images/portfolio_38.jpeg',
-      category: 'Apps Design',
     },
   ];
   return (
