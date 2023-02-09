@@ -22,11 +22,11 @@ export default function Home() {
   // Hero Social Links
   const heroSocialLinks = [
     {
-      name: 'Behance',
+      name: 'Automate Report',
       links: '/',
     },
     {
-      name: 'Twitter',
+      name: 'Generate PDF',
       links: '/',
     },
   ];
@@ -64,7 +64,7 @@ export default function Home() {
         btnText="MAKE MY REPORT NOW"
         btnLink="/creative-portfolio"
         scrollDownId="#service"
-        socialLinksHeading="Follow Us"
+        socialLinksHeading="Free Plagiarism"
         heroSocialLinks={heroSocialLinks}
         bgImageUrl="/images/hero_bg.jpeg"
       />
